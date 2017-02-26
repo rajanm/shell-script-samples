@@ -1,0 +1,3 @@
+start grouping csv file 02/26/2017_04:40:27 PM
+completed grouping csv file 02/26/2017_04:40:54 PM
+completed formatting csv file 02/26/2017_04:40:54 PM
